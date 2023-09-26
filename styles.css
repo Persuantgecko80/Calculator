@@ -1,0 +1,12 @@
+.container {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+
+}
+
+.screen {
+    text-align: center;
+    border-style: solid;
+}
