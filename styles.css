@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #1C1C1C;
   }
   
   .container {
@@ -32,6 +32,7 @@
     background-color: #333;
     color: #f4f4f4;
     text-align: right;
+    min-height: 77px;
   }
   
   .button {
@@ -42,15 +43,17 @@
   }
   
   .number {
-    background-color: #ddd;
+    background-color: #505050;
+    color: white;
   }
   
   .operation {
-    background-color: #ffa07a;
+    background-color: #FF9500;
+    color: white;
   }
   
   .utility {
-    background-color: #f1c40f;
+    background-color: #D4D4D2;
   }
   
   .button:hover {
